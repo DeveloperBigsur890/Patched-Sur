@@ -1,4 +1,4 @@
-![Patched Sur](https://raw.githubusercontent.com/BenSova/Patched-Sur/main/Extra%20Files/banner.png)
+![Patched Sur](https://youtu.be/8xXeHMI6sJ8)
 
 ## What is Patched Sur?
 
