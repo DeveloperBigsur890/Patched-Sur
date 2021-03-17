@@ -1,4 +1,4 @@
-![Patched Sur](https://avatars.githubusercontent.com/u/80718438?s=460&u=cdb0efcbf9319549953d33dd38597d66388099e2&v=4)
+![Patched Sur](https://raw.githubusercontent.com/BenSova/Patched-Sur/main/Extra%20Files/banner.png)
 
 ## What is Patched Sur?
 
